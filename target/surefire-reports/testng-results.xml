@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-28T15:48:30 IST" name="Suite" finished-at="2023-03-28T15:49:20 IST" duration-ms="49075">
+    <groups>
+    </groups>
+    <test started-at="2023-03-28T15:48:30 IST" name="Test" finished-at="2023-03-28T15:49:20 IST" duration-ms="49075">
+      <class name="recap.CalculatorApp">
+        <test-method is-config="true" signature="setup()[pri:0, instance:recap.CalculatorApp@4562e04d]" started-at="2023-03-28T15:48:30 IST" name="setup" finished-at="2023-03-28T15:48:47 IST" duration-ms="16280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyAddTest()[pri:0, instance:recap.CalculatorApp@4562e04d]" started-at="2023-03-28T15:48:47 IST" name="verifyAddTest" finished-at="2023-03-28T15:48:56 IST" duration-ms="8630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddTest -->
+        <test-method signature="verifyDivTest()[pri:0, instance:recap.CalculatorApp@4562e04d]" started-at="2023-03-28T15:48:56 IST" name="verifyDivTest" finished-at="2023-03-28T15:49:05 IST" duration-ms="9005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDivTest -->
+        <test-method signature="verifyMulTest()[pri:0, instance:recap.CalculatorApp@4562e04d]" started-at="2023-03-28T15:49:05 IST" name="verifyMulTest" finished-at="2023-03-28T15:49:12 IST" duration-ms="7262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMulTest -->
+        <test-method signature="verifySubTest()[pri:0, instance:recap.CalculatorApp@4562e04d]" started-at="2023-03-28T15:49:12 IST" name="verifySubTest" finished-at="2023-03-28T15:49:20 IST" duration-ms="7788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySubTest -->
+      </class> <!-- recap.CalculatorApp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

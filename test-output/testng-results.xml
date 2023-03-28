@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-28T15:42:22 IST" name="Default suite" finished-at="2023-03-28T15:42:41 IST" duration-ms="18923">
+    <groups>
+    </groups>
+    <test started-at="2023-03-28T15:42:22 IST" name="Default test" finished-at="2023-03-28T15:42:41 IST" duration-ms="18923">
+      <class name="recap.ClockApp">
+        <test-method is-config="true" signature="setup()[pri:0, instance:recap.ClockApp@49dc7102]" started-at="2023-03-28T15:42:22 IST" name="setup" finished-at="2023-03-28T15:42:40 IST" duration-ms="17619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyDateTest()[pri:0, instance:recap.ClockApp@49dc7102]" started-at="2023-03-28T15:42:40 IST" name="verifyDateTest" finished-at="2023-03-28T15:42:41 IST" duration-ms="1121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDateTest -->
+      </class> <!-- recap.ClockApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
